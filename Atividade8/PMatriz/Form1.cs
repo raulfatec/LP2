@@ -97,12 +97,14 @@ namespace PMatriz
 
         private void btnExe4_Click(object sender, EventArgs e)
         {
-
+            exe4 formExe4 = new exe4();
+            formExe4.Show();
         }
 
         private void btnExe5_Click(object sender, EventArgs e)
         {
-
+            exe5 formExe5 = new exe5();
+            formExe5.Show();
         }
     }
 }
